@@ -5,7 +5,7 @@ import { Button } from '@/components/ui/button';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Progress } from '@/components/ui/progress';
 import { Badge } from '@/components/ui/badge';
-import { BookOpen, Trophy, Clock, Download, User, Share2 } from 'lucide-react';
+import { BookOpen, Trophy, Clock, Download, User, Share2, Mail } from 'lucide-react';
 import { Link } from 'react-router-dom';
 
 const Dashboard = () => {
